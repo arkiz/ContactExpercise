@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{873A13AC-D4E0-43EE-9A1D-3B85FD1CF6CE}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ContactExpercise/MainActivity.cs" Line="21" Column="13" />
+      <File FileName="ContactExpercise/Contacts.cs" Line="10" Column="30" />
+      <File FileName="ContactExpercise/ContactAdapter.cs" Line="70" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContactExpercise AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_21" />
+  <MultiItemStartupConfigurations />
+</Properties>
